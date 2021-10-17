@@ -1,6 +1,4 @@
-# ---- Dynamic Technology Lab, Singapore ----
-
-## --- Mini project in C++ ---
+# HTTP SERVER in C++
 
 ## --- Problem Statement ---
 Implement a basic HTTP server that supports HTTP/1.1 in C++.  
