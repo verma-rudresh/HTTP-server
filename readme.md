@@ -8,8 +8,7 @@ Requirements:
     **->** Handle at least 10,000 concurrent connections.  
     **->** Serve at least 100,000 requests per second on a modern personal computer.  
     **->** Serve a simple one or two pages website for demonstration.  
-    **->** You may want to skip some trivial features like Multipart data if time is not enough,
-       but you need to state clearly what features are supported.  
+    **->** Add extra features like images display and Multipart data.
 
 ## --- Features ---  
 **->** Created a two pages website easily managable by my local server.   
